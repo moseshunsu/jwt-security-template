@@ -1,4 +1,4 @@
-package com.higherAchievers.user;
+package com.higherAchievers.utils;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import static com.higherAchievers.user.Permission.*;
+import static com.higherAchievers.utils.Permission.*;
 
 @RequiredArgsConstructor
 public enum Role {

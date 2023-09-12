@@ -1,6 +1,6 @@
 package com.higherAchievers.repository;
 
-import com.higherAchievers.user.User;
+import com.higherAchievers.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

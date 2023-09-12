@@ -1,6 +1,6 @@
 package com.higherAchievers.dto;
 
-import com.higherAchievers.user.Role;
+import com.higherAchievers.utils.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

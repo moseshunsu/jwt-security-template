@@ -1,4 +1,4 @@
-package com.higherAchievers.user;
+package com.higherAchievers.utils;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

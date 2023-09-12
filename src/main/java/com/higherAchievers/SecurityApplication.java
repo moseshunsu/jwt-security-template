@@ -7,8 +7,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import static com.higherAchievers.user.Role.ADMIN;
-import static com.higherAchievers.user.Role.MANAGER;
+import static com.higherAchievers.utils.Role.ADMIN;
+import static com.higherAchievers.utils.Role.MANAGER;
 
 @SpringBootApplication
 public class SecurityApplication {
