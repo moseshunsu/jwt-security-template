@@ -1,5 +1,6 @@
 package com.higherAchievers.dto;
 
+import com.higherAchievers.user.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -14,4 +15,5 @@ public class UserRequest {
     private String lastName;
     private String email;
     private String password;
+    private Role role;
 }
