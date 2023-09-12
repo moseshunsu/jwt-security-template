@@ -5,7 +5,6 @@ import com.higherAchievers.dto.LoginDto;
 import com.higherAchievers.dto.UserRequest;
 import com.higherAchievers.filter.JwtService;
 import com.higherAchievers.repository.UserRepository;
-import com.higherAchievers.user.Role;
 import com.higherAchievers.user.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;
